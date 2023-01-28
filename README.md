@@ -13,9 +13,7 @@ In Future this app will contain more features to make it better and sustainable.
 ## Preview
 ![Preview](https://i.ibb.co/yBhfZRb/Screen-Shot-2023-01-28-at-9-07-21-PM.png)
 
-## Demo
 
-![Demo](https://i.ibb.co/P96zj04/Budget-App-Adobe-Express.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
