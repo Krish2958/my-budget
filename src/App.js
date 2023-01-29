@@ -82,7 +82,7 @@ function App() {
         handleClose={() => setViewExpensesModalBudgetId()}
       />
       <div class="py-3 my-4">
-        <a href='https://github.com/Krish2958'> <h6   class="text-center text-primary">© 2023 Krish Maheshwari, Inc</h6></a>
+        <a href='https://krishmaheshwari.carrd.co'> <h6   class="text-center text-primary">© 2023 Krish Maheshwari, Inc</h6></a>
       </div>
     </>
   )
