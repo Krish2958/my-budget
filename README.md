@@ -2,7 +2,7 @@
 
 ## About
 This Budgets App is made using [React JS](https://reactjs.org/) framework of javascript and [react-bootstrap](https://react-bootstrap.github.io/) and [React Hooks](https://reactjs.org/docs/hooks-intro.html).This is a responsive web app
-which can be accesed on any device.It is not currently hosted. Trying to host it as soon as possible
+which can be accesed on any device.It is live at [Budget APP]((https://krish2958.github.io/my-budget/)
 
 ## Features
 This Budgets App is a responsive daily expense tracker app which allows you to 
